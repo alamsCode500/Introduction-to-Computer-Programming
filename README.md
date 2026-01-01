@@ -2,7 +2,7 @@
 Introduction to Computer Programming
 # 👋 Overview
 
-This repository showcases my Python programming capstone project, completed as part of the AlmaBetter Introduction to Computer Programming curriculum.
+This repository showcases my Python programming capstone project.
 
 The project demonstrates my ability to:
 
@@ -95,9 +95,13 @@ Fully executable with no external dependencies
 # 💼 Why This Project Matters
 
 ✔ Demonstrates strong Python fundamentals
+
 ✔ Shows problem-solving and analytical thinking
+
 ✔ Reflects clean coding standards
+
 ✔ Highlights communication skills
+
 ✔ Suitable for Data Analyst / Data Scientist / Python Developer roles
 
 # 🏁 Conclusion
@@ -107,5 +111,7 @@ This capstone project represents my readiness to work on real-world Python and d
 # 👤 Author
 
 Tauseef Alam
+
 Aspiring Data Analyst / Data Scientist
+
 Python | SQL | Data Analysis
