@@ -1,75 +1,78 @@
 # 🚀 Python Programming Capstone Project
+
 Introduction to Computer Programming
+
 # 👋 Overview
 
 This repository showcases my Python programming capstone project.
 
 The project demonstrates my ability to:
 
-Solve real-world problems using Python
+* Solve real-world problems using Python
 
-Write clean, readable, and efficient code
+* Write clean, readable, and efficient code
 
-Apply strong logical thinking and programming fundamentals
+* Apply strong logical thinking and programming fundamentals
 
-Communicate technical solutions clearly
+* Communicate technical solutions clearly
 
 A total of 30 coding challenges were solved, covering core Python, OOP, functional programming, and exception handling, along with video explanations for selected problems.
 
 # 🧠 Key Skills Demonstrated
+
 # ✅ Python Programming
 
-Data Types, Indexing & Slicing
+* Data Types, Indexing & Slicing
 
-Operators & Built-in Functions
+* Operators & Built-in Functions
 
-Conditional Logic & Loops
+* Conditional Logic & Loops
 
-Nested & Advanced Looping
+* Nested & Advanced Looping
 
 # ✅ Functional Programming
 
-Custom Functions
+* Custom Functions
 
-Lambda Functions
+* Lambda Functions
 
-List, Set & Dictionary Comprehensions
+* List, Set & Dictionary Comprehensions
 
-map(), filter(), reduce()
+* map(), filter(), reduce()
 
 # ✅ Object-Oriented Programming (OOP)
 
-Class & Object Design
+* Class & Object Design
 
-Real-world problem modeling
+* Real-world problem modeling
 
-Modular and reusable code
+* Modular and reusable code
 
 # ✅ Exception Handling
 
-Robust error handling using try-except
+* Robust error handling using try-except
 
-Writing fail-safe, production-ready code
+* Writing fail-safe, production-ready code
 
 # 📌 Real-World Problem Scenarios Solved
 
-Sports score tracking systems
+* Sports score tracking systems
 
-Ingredient percentage calculations
+* Ingredient percentage calculations
 
-Machine learning model accuracy evaluation
+* Machine learning model accuracy evaluation
 
-Sales and inventory data analysis
+* Sales and inventory data analysis
 
-String processing and pattern counting
+* String processing and pattern counting
 
-Banking and financial simulations
+* Banking and financial simulations
 
-Shipping cost calculators
+* Shipping cost calculators
 
-Time formatting and validation systems
+* Time formatting and validation systems
 
-Data filtering and transformation pipelines
+* Data filtering and transformation pipelines
 
 These problems mirror real-world software and data challenges, not just academic exercises.
 
@@ -80,17 +83,17 @@ Capstone-Introduction-to-Python/
 ├── README.md
 
 
-All solutions are well-commented
+* All solutions are well-commented
 
-Problems are logically grouped for easy navigation
+* Problems are logically grouped for easy navigation
 
-Code is written following best Python practices
+* Code is written following best Python practices
 
 # ▶️ Execution Environment
 
-Google Colab / Jupyter Notebook
+* Google Colab / Jupyter Notebook
 
-Fully executable with no external dependencies
+* Fully executable with no external dependencies
 
 # 💼 Why This Project Matters
 
