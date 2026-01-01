@@ -77,11 +77,10 @@ A total of 30 coding challenges were solved, covering core Python, OOP, function
 These problems mirror real-world software and data challenges, not just academic exercises.
 
 # 📂 Project Structure
-Capstone-Introduction-to-Python/
+Introduction-to-Computer-Programming/
 │
-├── Capstone Project - Introduction to Computer Programming.ipynb
+├── Introduction to Computer Programming.ipynb
 ├── README.md
-
 
 * All solutions are well-commented
 
